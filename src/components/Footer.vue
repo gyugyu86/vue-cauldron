@@ -1,5 +1,5 @@
 <template>
-  <div id="cauldronFooter">Created by Hashimoto-san</div>
+  <div id="cauldronFooter">Updated by Eum(Created by Hashimoto-san)</div>
 </template>
 
 <script>
@@ -8,6 +8,8 @@ export default {};
 
 <style scoped>
 #cauldronFooter {
-  height: 100px;
+  height: 50px;
+  margin-top: 20px;
+  font-weight: bold;
 }
 </style>

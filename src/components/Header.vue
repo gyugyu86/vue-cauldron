@@ -8,8 +8,4 @@
 export default {};
 </script>
 
-<style scoped>
-#cauldronHeader {
-  height: 250px;
-}</style
->>
+<style scoped></style>

@@ -1,6 +1,6 @@
 <template>
   <div id="cauldronHeader">
-    <h1>Cauldron</h1>
+    Header
   </div>
 </template>
 
@@ -8,8 +8,4 @@
 export default {};
 </script>
 
-<style scoped>
-#cauldronHeader {
-  height: 250px;
-}</style
->>
+<style scoped></style>

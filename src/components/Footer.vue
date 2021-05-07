@@ -1,13 +1,9 @@
 <template>
-  <div id="cauldronFooter">Created by Hashimoto-san</div>
+  <div id="cauldronFooter">Footer</div>
 </template>
 
 <script>
 export default {};
 </script>
 
-<style scoped>
-#cauldronFooter {
-  height: 100px;
-}
-</style>
+<style scoped></style>

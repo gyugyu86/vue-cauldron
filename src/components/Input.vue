@@ -8,10 +8,4 @@
 export default {};
 </script>
 
-<style scoped>
-#cauldronInput {
-  /* display: flex; */
-  color: rgb(49, 49, 153);
-  height: 100%;
-}
-</style>
+<style scoped></style>

@@ -4,7 +4,7 @@
     <textarea
       v-model="inputData"
       v-on:keyup.enter="outputBtn"
-      placeholder="Please, input logs"
+      placeholder="Please, input data"
     ></textarea>
     <div class="selectBtn">
       <span>
@@ -27,7 +27,7 @@
 
 <script>
 export default {
-  data: function() {
+  data() {
     return {
       inputData: "",
       selected: "",
@@ -35,12 +35,8 @@ export default {
     };
   },
   methods: {
-    outputBtn: function() {
-      console.log(this.inputData);
-    },
-    convertBtn: function() {
-      alert("clickされました");
-    },
+    outputBtn() {},
+    convertBtn() {},
   },
 };
 </script>

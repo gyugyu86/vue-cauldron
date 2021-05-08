@@ -13,9 +13,9 @@ import Footer from "./components/Footer";
 
 export default {
   components: {
-    Header: Header,
-    Input: Input,
-    Footer: Footer,
+    Header,
+    Input,
+    Footer,
   },
 };
 </script>

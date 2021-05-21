@@ -8,4 +8,10 @@
 export default {};
 </script>
 
-<style scoped></style>
+<style scoped>
+#cauldronHeader {
+  color: white;
+  background-color: green;
+  margin: 0;
+}
+</style>
